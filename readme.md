@@ -4,7 +4,7 @@ I'm Stephen, a passionate software developer and student from Nova. Here's a bit
 
 - 🎓 I'm a junior at James Madison University studying computer science and economics
 - 🎮 I'm a gamer and game developer 
-- 🔭 I’m currently working on developing an automated portfolio management software
+- 🔭 I’m currently working on developing a randomly generated zombie survival game with my girlfriend Abby and my buddy Cai
 - 🌱 I’m currently learning full stack development using mongo/postgre, flask, and react
 - 👯 I’m looking to collaborate on a web based trading algorithm visualizer
 - 💬 Ask me about my time as an analyst for the Madison Investment Fund

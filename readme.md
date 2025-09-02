@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-I'm Stephen, a passionate software developer and student from Nova. Here's a bit about me:
+I'm Stephen, a passionate software developer and student from Richmond. Here's a bit about me:
 
-- 🎓 I'm a junior at James Madison University studying computer science and economics
+- 🎓 I graduated from James Madison University with a degree in Computer Science and a minor in Economics
 - 🎮 I'm a gamer and game developer 
 - 🔭 I’m currently working on developing a video game with my girlfriend Abby
 - 🌱 I’m currently learning full stack development using mongo/postgre, flask, and react

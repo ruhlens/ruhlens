@@ -8,7 +8,7 @@ I'm Stephen, a passionate software developer and student from Richmond. Here's a
 - 🌱 I’m currently learning full stack development using mongo/postgre, flask, and react
 - 👯 I’m looking to collaborate on a web based trading algorithm visualizer
 - 💬 Ask me about my time as an analyst for the Madison Investment Fund
-- 📫 How to reach me: ruhlensp@dukes.jmu.edu
+- 📫 How to reach me: ruhlensp@gmail.com
 - ⚡ Fun fact: I have been to 8 different countries!
 
 ### Skills:
